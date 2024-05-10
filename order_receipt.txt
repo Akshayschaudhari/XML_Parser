@@ -1,0 +1,15 @@
+                Order Receipt
+
+Customer Name: John Doe
+Order ID: 1
+---------------------------------
+Prduct ID: 123
+Prduct Name: Product A
+Prduct Quantity: 2
+Prduct Price: 10.99
+---------------------------------
+Prduct ID: 456
+Prduct Name: Product B
+Prduct Quantity: 1
+Prduct Price: 24.99
+---------------------------------
